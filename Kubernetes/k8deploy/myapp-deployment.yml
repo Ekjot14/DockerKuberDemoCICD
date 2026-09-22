@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: newdemok8s
-        image: 22603184/firstdockerimage:v1
+        image: 22603184/dockerdemokuber:latest
         ports:
         - containerPort: 80
